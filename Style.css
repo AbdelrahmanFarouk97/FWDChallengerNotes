@@ -1,0 +1,8 @@
+body {
+    font-family: 'Indie Flower', serif;
+    font-size: 25px;
+    text-shadow: 4px 4px 4px #aaa;
+  }
+p { color: rgb(45%, 75%, 79%) }
+ol { color: blue; font-size: larger; }
+ul { color: green; font-size: medium; }
